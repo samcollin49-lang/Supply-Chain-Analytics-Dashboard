@@ -34,3 +34,11 @@ pip install streamlit pandas plotly
 
 Run the app:
 streamlit run app.py
+
+## Project Description:
+
+This project is an applied study of supply chain analytics that uses the Dataco Global Supply Chain dataset.
+
+This work does not directly replicate any particular research paper.  The goal was to use what we learned in the Advanced Statistics class to real data, find key performance indicators, and look at delivery performance and profitability.
+
+This project is about doing real world data analysis and making an interactive Streamlit dashboard that can help businesses make decisions and get insights.
